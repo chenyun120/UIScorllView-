@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/ViewController.m \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/ViewController.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/InfiniteScrollPicker/InfiniteScrollPicker.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/testScrollView.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/FishKit.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/FishKitMacros.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/NSArray+FishKit.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/NSString+FishKit.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIColor+PXColors.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIView+Nib.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIView+Data.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIView+Helper.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIView+NibStyle.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIScrollView+ReachEnds.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIViewController+Nib.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIViewController+Data.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIViewController+Container.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIViewController+TransparentUINavigationbar.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UIViewController+Traversing.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UINavigationBar+Addition.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/NSObject+NSCoder.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/NSObject+Swizzle.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/NSDictionary+transform.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/NSObject+FishUserDefaults.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/UserDefaults.h \
+  /Users/Fang/Desktop/m-plus/henxiang2副本/henxiang2/FishKit/CacheProtocol.h
